@@ -1,0 +1,1 @@
+{"description":"Everyday Wonder — one sentence on a small moment of wonder in everyday life (make.fun bounty entry)","engines":{"node":">=22"},"license":"MIT","name":"makefun-everyday-wonder-v3","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
